@@ -1,0 +1,1 @@
+{"statusCode":200,"headers":{"Content-Type":"application/json"},"isBase64Encoded":false,"multiValueHeaders":{"X-Custom-Header":["My value","My other value"]},"body":"{\n  \"TotalCodeSize\": 707,\n  \"FunctionCount\": 1\n}"}
